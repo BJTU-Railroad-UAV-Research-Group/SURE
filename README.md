@@ -1,4 +1,4 @@
-**SURE: UAV Imagery-based Railroad Surroundings Unknown Risk Perception Using Buffer Decoupling Learning and Feature Space Dynamic Sampling**
+**SURE: UAV Imagery-based Railroad Surroundings Unknown Risk Perception Using Buffer Decouple Learning and Feature Space Dynamic Sampling**
 
 ------
 

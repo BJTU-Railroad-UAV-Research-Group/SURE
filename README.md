@@ -4,4 +4,4 @@
 
 This is the official PyTorch implementation of SURE, we will be posting the code here soon, stay tuned!!!!
 
-![framework](assert\framework.jpg)
+![framework](assert/framework.jpg)
